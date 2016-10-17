@@ -1,0 +1,29 @@
+﻿@model MyContacts.Models.AuthorizationRequest
+
+@{
+    ViewBag.Title = "Sharing";
+}
+
+<h2>Would you like to share the MyContacts application data with @Model.ClientApp?</h2>
+<div>
+	<b>To be Shared: </b>
+	@String.Join(" ", Model.Scope.ToArray())
+</div>
+
+@{
+    bool isImplictGrant = Model.Request.ResponseType == DotNetOpenAuth.OAuth2.Messages.EndUserAuthorizationResponseType.AccessToken;
+    string responseType = isImplictGrant ? "token" : "code";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.Hidden("client_id", Model.Request.ClientIdentifier)
+    @Html.Hidden("redirect_uri", Model.Request.Callback)
+    @Html.Hidden("state", Model.Request.ClientState)
+    @Html.Hidden("scope", DotNetOpenAuth.OAuth2.OAuthUtilities.JoinScopes(Model.Request.Scope)) 
+    @Html.Hidden("response_type", responseType)
+    <br />
+	<input type="submit" name="userApproval" value="Yes"/>
+}
+
+Go back to <a href="http://www.my-promo.com/promo">Promotion Manager</a>

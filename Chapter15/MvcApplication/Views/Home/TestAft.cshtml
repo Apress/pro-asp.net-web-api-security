@@ -1,0 +1,36 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#search').click(function () {
+                $('#employees').empty();
+
+                $.ajax({
+                    cache: false,
+                    dataType: 'json',
+                    type: 'GET',
+                    headers: { "X-AFT": $('input[name="__RequestVerificationToken"]').val() },
+                    contentType: 'application/json; charset=utf-8',
+                    url: '/api/employees',
+                    success: function (data) {
+                        $.each(data, function (i, employee) {
+                            var content = employee.Id + ' ' + employee.FirstName;
+                            content = content + ' ' + employee.LastName;
+                            $('#employees').append($('<li/>', { text: content }));
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
+@Html.AntiForgeryToken()
+<div>
+    <div>
+        <h1>
+            Employees Listing</h1>
+	<input id="search" type="button" value="Get" />
+    </div>
+    <div>
+        <ul id="employees" />
+    </div>
+</div>

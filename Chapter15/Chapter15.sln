@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication", "MvcApplication\MvcApplication.csproj", "{99911E63-7A43-4187-934F-52EB382EC7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{BEB23DDA-2E2C-4048-8161-DABC7F08B13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignatureValidatingClientConsoleApp", "SignatureValidatingClientConsoleApp\SignatureValidatingClientConsoleApp.csproj", "{7275F757-E0F9-4D9C-A76A-7F714A3C9CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99911E63-7A43-4187-934F-52EB382EC7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99911E63-7A43-4187-934F-52EB382EC7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99911E63-7A43-4187-934F-52EB382EC7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99911E63-7A43-4187-934F-52EB382EC7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB23DDA-2E2C-4048-8161-DABC7F08B13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB23DDA-2E2C-4048-8161-DABC7F08B13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB23DDA-2E2C-4048-8161-DABC7F08B13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB23DDA-2E2C-4048-8161-DABC7F08B13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7275F757-E0F9-4D9C-A76A-7F714A3C9CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7275F757-E0F9-4D9C-A76A-7F714A3C9CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7275F757-E0F9-4D9C-A76A-7F714A3C9CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7275F757-E0F9-4D9C-A76A-7F714A3C9CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

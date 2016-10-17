@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TfaWebApi", "TfaWebApi\TfaWebApi.csproj", "{0F93267F-E538-45BF-A1CF-77809A98A3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuthConsoleApp", "GoogleAuthConsoleApp\GoogleAuthConsoleApp.csproj", "{C435E1C3-7059-45A3-9326-5C5123BEF361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleAuthWebApi", "GoogleAuthWebApi\GoogleAuthWebApi.csproj", "{6DC035B5-A219-4854-A80D-C1A46B60A5D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F93267F-E538-45BF-A1CF-77809A98A3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F93267F-E538-45BF-A1CF-77809A98A3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F93267F-E538-45BF-A1CF-77809A98A3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F93267F-E538-45BF-A1CF-77809A98A3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C435E1C3-7059-45A3-9326-5C5123BEF361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C435E1C3-7059-45A3-9326-5C5123BEF361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C435E1C3-7059-45A3-9326-5C5123BEF361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C435E1C3-7059-45A3-9326-5C5123BEF361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC035B5-A219-4854-A80D-C1A46B60A5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC035B5-A219-4854-A80D-C1A46B60A5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC035B5-A219-4854-A80D-C1A46B60A5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC035B5-A219-4854-A80D-C1A46B60A5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

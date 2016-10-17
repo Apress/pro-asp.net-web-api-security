@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "Implicit Grant";
+}
+
+<h2>Welcome to My Promotion Manager! (Implicit Grant)</h2>
+
+Click the 'Get Contacts' button to import your contacts.<br />
+<br />
+
+@using (Html.BeginForm())
+{
+    <input type="button" id="btnGo" name="go" value="Get Contacts" style="width: 150px; height: 100px;" />
+}
+<br />
+<div id="result" style="display:none">
+    <table id="contacts">
+        <tr>
+            <th></th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </table>
+    <br />
+    <input type="button" value="Spam them" />
+</div>
+
+@section scripts{
+    <script src="@Url.Content("~/Scripts/implicitgrant.js")" type="text/javascript"></script>
+}

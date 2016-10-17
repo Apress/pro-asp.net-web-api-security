@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter08\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\102628\Desktop\Source\Chapter08\TestClient\bin\Debug\TestClient.exe
+C:\Users\102628\Desktop\Source\Chapter08\TestClient\bin\Debug\TestClient.pdb
+C:\Users\102628\Desktop\Source\Chapter08\TestClient\obj\Debug\TestClient.exe
+C:\Users\102628\Desktop\Source\Chapter08\TestClient\obj\Debug\TestClient.pdb

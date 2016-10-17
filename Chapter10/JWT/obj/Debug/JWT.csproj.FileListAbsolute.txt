@@ -1,0 +1,10 @@
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\JWT.exe.config
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\JWT.exe
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\JWT.pdb
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\Microsoft.IdentityModel.Tokens.JWT.dll
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\Security.Cryptography.dll
+C:\Users\102628\Desktop\Source\Chapter10\JWT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\102628\Desktop\Source\Chapter10\JWT\obj\Debug\JWT.csprojResolveAssemblyReference.cache
+C:\Users\102628\Desktop\Source\Chapter10\JWT\obj\Debug\JWT.exe
+C:\Users\102628\Desktop\Source\Chapter10\JWT\obj\Debug\JWT.pdb

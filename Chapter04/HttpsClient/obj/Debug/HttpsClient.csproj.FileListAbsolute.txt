@@ -1,0 +1,15 @@
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.exe.config
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.exe
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.pdb
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\obj\Debug\HttpsClient.exe
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\obj\Debug\HttpsClient.pdb
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.exe.config
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.exe
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.pdb
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\obj\Debug\HttpsClient.exe
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\HttpsClient\obj\Debug\HttpsClient.pdb
+C:\Users\102628\Desktop\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.exe.config
+C:\Users\102628\Desktop\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.exe
+C:\Users\102628\Desktop\Source\Chapter04\HttpsClient\bin\Debug\HttpsClient.pdb
+C:\Users\102628\Desktop\Source\Chapter04\HttpsClient\obj\Debug\HttpsClient.exe
+C:\Users\102628\Desktop\Source\Chapter04\HttpsClient\obj\Debug\HttpsClient.pdb

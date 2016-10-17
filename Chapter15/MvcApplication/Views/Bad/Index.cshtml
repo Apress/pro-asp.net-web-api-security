@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<img height="0" width="0" src="/api/employees/1234" />
+@section scripts{
+    <script type="text/javascript">
+        document.getElementById('myForm').submit();
+    </script>
+}
+
+
+<form id="myForm" action="/api/employees" method="post">
+    <input type="hidden" name="Id" value="78956" />
+    <input type="hidden" name="FirstName" value="John" />
+    <input type="hidden" name="LastName" value="Human" />
+</form>

@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter05\WindowsIdentityConsoleApp\bin\Debug\WindowsIdentityConsoleApp.exe.config
+C:\Users\102628\Desktop\Source\Chapter05\WindowsIdentityConsoleApp\bin\Debug\WindowsIdentityConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter05\WindowsIdentityConsoleApp\bin\Debug\WindowsIdentityConsoleApp.pdb
+C:\Users\102628\Desktop\Source\Chapter05\WindowsIdentityConsoleApp\obj\Debug\WindowsIdentityConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter05\WindowsIdentityConsoleApp\obj\Debug\WindowsIdentityConsoleApp.pdb

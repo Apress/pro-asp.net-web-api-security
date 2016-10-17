@@ -1,0 +1,26 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#search').click(function () {
+                $('#employees').empty();
+                $.getJSON("/api/employees", function (data) {
+                    $.each(data, function (i, employee) {
+                        var content = employee.Id + ' ' + employee.Name;
+                        content = content + ' ' + employee.Department;
+                        $('#employees').append($('<li/>', { text: content }));
+                    });
+                });
+            });
+        });
+    </script>
+}
+<div>
+    <div>
+        <h1>
+            Employees Listing</h1>
+	<input id="search" type="button" value="Get" />
+    </div>
+    <div>
+        <ul id="employees" />
+    </div>
+</div>

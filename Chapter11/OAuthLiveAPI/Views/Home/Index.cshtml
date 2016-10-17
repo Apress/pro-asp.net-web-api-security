@@ -1,0 +1,16 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var clientId = 'Your client Id';
+            var redirectUri = 'http://www.my-server.com/OAuthLiveAPI/Home/Parse';
+            var scope = 'wl.signin%20wl.basic';
+
+            var url = 'https://login.live.com/oauth20_authorize.srf';
+            url += '?response_type=token&redirect_uri=' + redirectUri;
+            url += '&client_id=' + clientId + '&scope=' + scope;
+
+            document.location.href = url;
+
+        });
+    </script>
+}

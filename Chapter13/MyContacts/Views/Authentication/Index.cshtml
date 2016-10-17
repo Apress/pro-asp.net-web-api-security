@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Sign In";
+}
+
+<h2>Sign In</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="editor-label">
+        @Html.Label("userId")
+    </div>
+    <div class="editor-field">
+        @Html.TextBox("userId")
+    </div>
+    
+    <div class="editor-label">
+        @Html.Label("password")
+    </div>
+    <div class="editor-field">
+        @Html.Password("password")
+    </div>
+    <input type="submit" value="Sign In" />
+}

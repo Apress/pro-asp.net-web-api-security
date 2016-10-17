@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Welcome to My Promotion Manager!";
+}
+
+<h2>Welcome to My Promotion Manager!</h2>
+
+Click the 'Get Contacts' button to import your contacts.<br /><br />
+
+@using (Html.BeginForm())
+{
+    <input type="submit" name="go" value="Get Contacts" style="width: 150px; height: 100px;"/>
+}

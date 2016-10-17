@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter05\ClaimsBasedIdentityConsoleApp\bin\Debug\ClaimsBasedIdentityConsoleApp.exe.config
+C:\Users\102628\Desktop\Source\Chapter05\ClaimsBasedIdentityConsoleApp\bin\Debug\ClaimsBasedIdentityConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter05\ClaimsBasedIdentityConsoleApp\bin\Debug\ClaimsBasedIdentityConsoleApp.pdb
+C:\Users\102628\Desktop\Source\Chapter05\ClaimsBasedIdentityConsoleApp\obj\Debug\ClaimsBasedIdentityConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter05\ClaimsBasedIdentityConsoleApp\obj\Debug\ClaimsBasedIdentityConsoleApp.pdb

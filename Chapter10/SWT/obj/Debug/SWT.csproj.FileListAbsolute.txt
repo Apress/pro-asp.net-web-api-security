@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter10\SWT\bin\Debug\SWT.exe.config
+C:\Users\102628\Desktop\Source\Chapter10\SWT\bin\Debug\SWT.exe
+C:\Users\102628\Desktop\Source\Chapter10\SWT\bin\Debug\SWT.pdb
+C:\Users\102628\Desktop\Source\Chapter10\SWT\obj\Debug\SWT.exe
+C:\Users\102628\Desktop\Source\Chapter10\SWT\obj\Debug\SWT.pdb

@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter09\PskClientConsoleApp\bin\Debug\PskClientConsoleApp.exe.config
+C:\Users\102628\Desktop\Source\Chapter09\PskClientConsoleApp\bin\Debug\PskClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter09\PskClientConsoleApp\bin\Debug\PskClientConsoleApp.pdb
+C:\Users\102628\Desktop\Source\Chapter09\PskClientConsoleApp\obj\Debug\PskClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter09\PskClientConsoleApp\obj\Debug\PskClientConsoleApp.pdb

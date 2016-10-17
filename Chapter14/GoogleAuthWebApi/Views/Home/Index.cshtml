@@ -1,0 +1,32 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#transfer').click(function () {
+                $('#result').empty();
+                
+                // Basic authorization hard-coded for jqhuman:jqhuman
+                $.ajax({
+                    type: "POST",
+                    headers: { "X-TOTP": $("#otp").val(), "Authorization": "Basic anFodW1hbjpqcWh1bWFu" },
+                    url: "http://localhost:19927/api/transfers",
+                    data: { "Amount": "50001" },
+                    success: function (data) {
+                        $('#result').html("Transfer successful");
+                    },
+                    error: function (error) {
+                        alert(error);
+                        $('#result').val("Transfer failed " + error);
+                    }
+                });
+            });
+        });
+    </script>
+}
+<h2>Transfer amount exceeds $50,000. Enter the code from Google Authenticator</h2>
+<div>
+    <div>
+        <input type="text" id="otp" />
+        <input id="transfer" type="button" value="Transfer" />
+    </div>
+    <div id="result"/>
+</div>

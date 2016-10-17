@@ -1,0 +1,15 @@
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\bin\Debug\CookieClient.exe.config
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\bin\Debug\CookieClient.exe
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\bin\Debug\CookieClient.pdb
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\obj\Debug\CookieClient.exe
+C:\Users\102628\Desktop\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\obj\Debug\CookieClient.pdb
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\bin\Debug\CookieClient.exe.config
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\bin\Debug\CookieClient.exe
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\bin\Debug\CookieClient.pdb
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\obj\Debug\CookieClient.exe
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter04\CookieClient\obj\Debug\CookieClient.pdb
+C:\Users\102628\Desktop\Source\Chapter04\CookieClient\bin\Debug\CookieClient.exe.config
+C:\Users\102628\Desktop\Source\Chapter04\CookieClient\bin\Debug\CookieClient.exe
+C:\Users\102628\Desktop\Source\Chapter04\CookieClient\bin\Debug\CookieClient.pdb
+C:\Users\102628\Desktop\Source\Chapter04\CookieClient\obj\Debug\CookieClient.exe
+C:\Users\102628\Desktop\Source\Chapter04\CookieClient\obj\Debug\CookieClient.pdb

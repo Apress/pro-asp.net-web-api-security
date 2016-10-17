@@ -1,0 +1,29 @@
+@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#details').click(function () {
+                $('#employee').empty();
+
+                $.ajax({
+                    type: "PUT",
+                    url: "http://localhost:6504/api/employees/12345",
+                    data: { "Name": "John Q Law", "Department": "Legal" },
+                    success: function (data) {
+                        $('#employee').append($('<li/>', { text: data }));
+                    },
+                    error: function (error) {
+                        console.log("ERROR:", error);
+                    }
+                });
+            });
+        });
+    </script>
+}
+<div>
+    <div>
+        <input id="details" type="button" value="Details" />
+    </div>
+    <div>
+        <ul id="employee" />
+    </div>
+</div>

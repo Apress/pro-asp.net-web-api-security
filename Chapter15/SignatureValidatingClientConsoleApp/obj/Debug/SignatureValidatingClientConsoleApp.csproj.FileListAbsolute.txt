@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter15\SignatureValidatingClientConsoleApp\bin\Debug\SignatureValidatingClientConsoleApp.exe.config
+C:\Users\102628\Desktop\Source\Chapter15\SignatureValidatingClientConsoleApp\bin\Debug\SignatureValidatingClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter15\SignatureValidatingClientConsoleApp\bin\Debug\SignatureValidatingClientConsoleApp.pdb
+C:\Users\102628\Desktop\Source\Chapter15\SignatureValidatingClientConsoleApp\obj\Debug\SignatureValidatingClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter15\SignatureValidatingClientConsoleApp\obj\Debug\SignatureValidatingClientConsoleApp.pdb

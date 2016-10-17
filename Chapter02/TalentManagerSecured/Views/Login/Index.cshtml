@@ -1,0 +1,19 @@
+﻿<h1>Sign In</h1>
+@using (Html.BeginForm())
+{
+    <div class="editor-label">
+        @Html.Label("userId")
+    </div>
+    <div class="editor-field">
+        @Html.TextBox("userId")
+    </div>
+    
+    <div class="editor-label">
+        @Html.Label("password")
+    </div>
+    <div class="editor-field">
+        @Html.Password("password")
+    </div>
+        
+    <input type="submit" value="Login" />
+}

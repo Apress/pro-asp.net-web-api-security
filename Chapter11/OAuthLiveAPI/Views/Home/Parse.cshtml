@@ -1,0 +1,13 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var url = 'https://apis.live.net/v5.0/me?' + location.hash.slice(1);
+
+            $.getJSON(url, function (data) {
+                $('#data').html(data.name);
+            });
+        });
+    </script>
+}
+
+<div id="data"></div>

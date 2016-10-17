@@ -1,0 +1,19 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#delete').click(function () {
+                $.ajax({
+                    type: "DELETE",
+                    url: "api/employees/12345",
+                    success: function (data) {
+                        alert('Employee deleted');
+                    }
+                });
+            });
+        });
+    </script>
+}
+
+<div>
+    <input id="delete" type="button" value="Delete" />
+</div>

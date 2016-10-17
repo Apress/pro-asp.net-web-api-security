@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter09\CertClientConsoleApp\bin\Debug\CertClientConsoleApp.exe.config
+C:\Users\102628\Desktop\Source\Chapter09\CertClientConsoleApp\bin\Debug\CertClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter09\CertClientConsoleApp\bin\Debug\CertClientConsoleApp.pdb
+C:\Users\102628\Desktop\Source\Chapter09\CertClientConsoleApp\obj\Debug\CertClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter09\CertClientConsoleApp\obj\Debug\CertClientConsoleApp.pdb

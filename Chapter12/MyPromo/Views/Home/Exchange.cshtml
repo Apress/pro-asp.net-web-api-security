@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MyPromo.Models.Contact>
+<h2>Contacts Retrieved From my-contacts.com</h2>
+
+<table>
+    <tr>
+        <th></th>
+        <th>@Html.DisplayNameFor(model => model.Name)</th>
+        <th>@Html.DisplayNameFor(model => model.Email)</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>@Html.CheckBox(item.Email)</td>
+        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+    </tr>
+}
+</table>
+<br />
+<input type="button" value="Spam them" />

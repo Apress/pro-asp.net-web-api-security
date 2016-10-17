@@ -1,0 +1,9 @@
+﻿@using (Html.BeginForm())
+{
+    <div class="editor-label"> @Html.Label("userId") </div>
+    <div class="editor-field"> @Html.TextBox("userId")</div> <!-- matches with the parameter userId -->
+    
+    <div class="editor-label">@Html.Label("password")</div>
+    <div class="editor-field">@Html.Password("password")</div><!-- same here with parameter password -->
+    <input type="submit" value="Login" />
+}

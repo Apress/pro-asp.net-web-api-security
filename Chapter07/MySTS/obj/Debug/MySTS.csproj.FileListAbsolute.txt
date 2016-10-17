@@ -1,0 +1,6 @@
+C:\Users\102628\Desktop\Source\Chapter07\MySTS\bin\Debug\MySTS.exe.config
+C:\Users\102628\Desktop\Source\Chapter07\MySTS\bin\Debug\MySTS.exe
+C:\Users\102628\Desktop\Source\Chapter07\MySTS\bin\Debug\MySTS.pdb
+C:\Users\102628\Desktop\Source\Chapter07\MySTS\obj\Debug\MySTS.csprojResolveAssemblyReference.cache
+C:\Users\102628\Desktop\Source\Chapter07\MySTS\obj\Debug\MySTS.exe
+C:\Users\102628\Desktop\Source\Chapter07\MySTS\obj\Debug\MySTS.pdb

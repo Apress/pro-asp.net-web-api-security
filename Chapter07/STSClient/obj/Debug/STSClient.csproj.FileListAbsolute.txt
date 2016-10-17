@@ -1,0 +1,6 @@
+C:\Users\102628\Desktop\Source\Chapter07\STSClient\bin\Debug\STSClient.exe.config
+C:\Users\102628\Desktop\Source\Chapter07\STSClient\bin\Debug\STSClient.exe
+C:\Users\102628\Desktop\Source\Chapter07\STSClient\bin\Debug\STSClient.pdb
+C:\Users\102628\Desktop\Source\Chapter07\STSClient\obj\Debug\STSClient.csprojResolveAssemblyReference.cache
+C:\Users\102628\Desktop\Source\Chapter07\STSClient\obj\Debug\STSClient.exe
+C:\Users\102628\Desktop\Source\Chapter07\STSClient\obj\Debug\STSClient.pdb

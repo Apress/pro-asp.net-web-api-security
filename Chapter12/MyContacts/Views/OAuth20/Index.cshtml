@@ -1,0 +1,14 @@
+﻿<h1>Sign In</h1>
+@using (Html.BeginForm("Authenticate", "OAuth20"))
+{
+    <div class="editor-label">@Html.Label("userId")</div>
+    <div class="editor-field">@Html.TextBox("userId")</div>
+    <div class="editor-label">@Html.Label("password")</div>
+    <div class="editor-field">@Html.Password("password")</div>
+    
+    @Html.CheckBox("isOkayToShare")<text>&nbsp;Check to consent to share the contacts</text>
+    
+    @Html.Hidden("CipherText", (string)ViewBag.CipherText)
+    
+    <input type="submit" value="Login" />
+}

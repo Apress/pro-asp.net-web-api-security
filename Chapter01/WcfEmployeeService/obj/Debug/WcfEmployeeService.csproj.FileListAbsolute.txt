@@ -1,0 +1,9 @@
+C:\Users\102628\Desktop\Programming ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\bin\WcfEmployeeService.dll
+C:\Users\102628\Desktop\Programming ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\bin\WcfEmployeeService.pdb
+C:\Users\102628\Desktop\Programming ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\obj\Debug\WcfEmployeeService.dll
+C:\Users\102628\Desktop\Programming ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\obj\Debug\WcfEmployeeService.pdb
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\bin\WcfEmployeeService.dll
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\bin\WcfEmployeeService.pdb
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\obj\Debug\WcfEmployeeService.csprojResolveAssemblyReference.cache
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\obj\Debug\WcfEmployeeService.dll
+D:\Badri\Pro ASP.NET Web API Security\Source\Chapter01\WcfEmployeeService\obj\Debug\WcfEmployeeService.pdb

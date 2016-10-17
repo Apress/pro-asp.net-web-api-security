@@ -1,0 +1,6 @@
+C:\Users\102628\Desktop\Source\Chapter09\SamlClientConsoleApp\bin\Debug\SamlClientConsoleApp.exe.config
+C:\Users\102628\Desktop\Source\Chapter09\SamlClientConsoleApp\bin\Debug\SamlClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter09\SamlClientConsoleApp\bin\Debug\SamlClientConsoleApp.pdb
+C:\Users\102628\Desktop\Source\Chapter09\SamlClientConsoleApp\obj\Debug\SamlClientConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\102628\Desktop\Source\Chapter09\SamlClientConsoleApp\obj\Debug\SamlClientConsoleApp.exe
+C:\Users\102628\Desktop\Source\Chapter09\SamlClientConsoleApp\obj\Debug\SamlClientConsoleApp.pdb

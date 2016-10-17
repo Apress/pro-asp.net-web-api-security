@@ -1,0 +1,5 @@
+C:\Users\102628\Desktop\Source\Chapter08\BruteforceAttacker\bin\Debug\BruteforceAttacker.exe.config
+C:\Users\102628\Desktop\Source\Chapter08\BruteforceAttacker\bin\Debug\BruteforceAttacker.exe
+C:\Users\102628\Desktop\Source\Chapter08\BruteforceAttacker\bin\Debug\BruteforceAttacker.pdb
+C:\Users\102628\Desktop\Source\Chapter08\BruteforceAttacker\obj\Debug\BruteforceAttacker.exe
+C:\Users\102628\Desktop\Source\Chapter08\BruteforceAttacker\obj\Debug\BruteforceAttacker.pdb

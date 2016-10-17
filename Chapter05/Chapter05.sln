@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIdentityWinForms", "GenericIdentityWinForms\GenericIdentityWinForms.csproj", "{0D65CB90-3A40-45F8-BBBE-ED6A873FCFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsIdentityConsoleApp", "WindowsIdentityConsoleApp\WindowsIdentityConsoleApp.csproj", "{1659D22D-26F5-4B83-BE48-929DF8916005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsBasedIdentityConsoleApp", "ClaimsBasedIdentityConsoleApp\ClaimsBasedIdentityConsoleApp.csproj", "{50BD9A3C-EF0C-4C90-96B3-86862BC1942D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsBasedWebApi", "ClaimsBasedWebApi\ClaimsBasedWebApi.csproj", "{C55ECD42-8396-4BA8-99AD-8723330E0C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D65CB90-3A40-45F8-BBBE-ED6A873FCFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D65CB90-3A40-45F8-BBBE-ED6A873FCFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D65CB90-3A40-45F8-BBBE-ED6A873FCFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D65CB90-3A40-45F8-BBBE-ED6A873FCFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1659D22D-26F5-4B83-BE48-929DF8916005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1659D22D-26F5-4B83-BE48-929DF8916005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1659D22D-26F5-4B83-BE48-929DF8916005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1659D22D-26F5-4B83-BE48-929DF8916005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BD9A3C-EF0C-4C90-96B3-86862BC1942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BD9A3C-EF0C-4C90-96B3-86862BC1942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BD9A3C-EF0C-4C90-96B3-86862BC1942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BD9A3C-EF0C-4C90-96B3-86862BC1942D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55ECD42-8396-4BA8-99AD-8723330E0C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55ECD42-8396-4BA8-99AD-8723330E0C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55ECD42-8396-4BA8-99AD-8723330E0C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55ECD42-8396-4BA8-99AD-8723330E0C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

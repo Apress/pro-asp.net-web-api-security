@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAuthentication", "BasicAuthentication\BasicAuthentication.csproj", "{FF31BFCC-656C-4E49-BB88-AE850B9FC935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "TestClient\TestClient.csproj", "{3F639658-9D65-46A9-ABCF-56A0B6844C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigestAuthentication", "DigestAuthentication\DigestAuthentication.csproj", "{65A2F803-0B03-4705-99E1-F71A232F1AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteforceAttacker", "BruteforceAttacker\BruteforceAttacker.csproj", "{9CC99360-BDFD-4227-82B3-A0C775170CA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF31BFCC-656C-4E49-BB88-AE850B9FC935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF31BFCC-656C-4E49-BB88-AE850B9FC935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF31BFCC-656C-4E49-BB88-AE850B9FC935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF31BFCC-656C-4E49-BB88-AE850B9FC935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F639658-9D65-46A9-ABCF-56A0B6844C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F639658-9D65-46A9-ABCF-56A0B6844C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F639658-9D65-46A9-ABCF-56A0B6844C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F639658-9D65-46A9-ABCF-56A0B6844C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A2F803-0B03-4705-99E1-F71A232F1AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A2F803-0B03-4705-99E1-F71A232F1AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A2F803-0B03-4705-99E1-F71A232F1AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A2F803-0B03-4705-99E1-F71A232F1AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC99360-BDFD-4227-82B3-A0C775170CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC99360-BDFD-4227-82B3-A0C775170CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC99360-BDFD-4227-82B3-A0C775170CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC99360-BDFD-4227-82B3-A0C775170CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

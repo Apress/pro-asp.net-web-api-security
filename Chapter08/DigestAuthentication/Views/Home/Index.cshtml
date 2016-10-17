@@ -1,0 +1,27 @@
+﻿@section scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#details').click(function () {
+                $('#employee').empty();
+
+                $.getJSON("api/employees/12345", function (employee) {
+                    var now = new Date();
+                    var ts = now.getHours() + ':' + now.getMinutes() + ':' + now.getSeconds();
+
+                    var content = employee.Id + ' ' + employee.Name + ' ' + ts;
+
+                    $('#employee').append($('<li/>', { text: content }));
+                });
+            });
+        });
+    </script>
+}
+<div>
+    <div>
+        <h1>Employees Listing</h1>
+        <input id="details" type="button" value="Details" />
+    </div>
+    <div>
+        <ul id="employee" />
+    </div>
+</div>

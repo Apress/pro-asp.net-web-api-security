@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+        <title>XDR</title>
+		<script type="text/javascript">
+		    var xdr = new XDomainRequest();
+		    xdr.open("get", "http://localhost:6504/api/employees/12345");
+		    xdr.onload = function () {
+		        alert(xdr.responseText);
+		    }
+
+		    xdr.send();
+		</script>
+	</head>
+<body>
+</body>
+</html>
